@@ -54,6 +54,25 @@ class GraphBuilder:
         self.graph_builder.add_conditional_edges("chatbot",tools_condition)
         self.graph_builder.add_edge("tools","chatbot")
 
+    def ai_news_builder_graph(self):
+
+        # added the nodes
+        self.graph_builder.add_node("fetch_news","")
+        self.graph_builder.add_node("summarize_news","")
+        self.graph_builder.add_node("save_result","")
+
+        # added the edges
+        self.graph_builder.set_entry_point("fetch_news")
+        self.graph_builder.add_edge("fetch_news", "summarize_news")
+        self.graph_builder.add_edge("summarize_news", "save_result")
+        self.graph_builder.add_edge("save_result", END)
+
+
+
+
+
+
+
     def setup_graph(self, usecase: str):
         """
         Sets up the graph for the selected use case.
