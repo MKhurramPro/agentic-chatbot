@@ -5,6 +5,7 @@ from src.langgraphagenticai.tools.search_tool import get_tools, create_tool_node
 from langgraph.prebuilt import ToolNode, tools_condition
 from src.langgraphagenticai.nodes.chatbot_with_tool_node import ChatbotWithToolNode
 from src.langgraphagenticai.nodes.ai_news_node import AINewsNode
+from langgraph.checkpoint.memory import InMemorySaver
 
 
 
@@ -88,6 +89,7 @@ class GraphBuilder:
             self.chatbot_with_tools_build_graph()
         if usecase == "AI News":
                     self.ai_news_builder_graph()
-        
 
-        return self.graph_builder.compile()
+        checkpointer = InMemorySaver()
+
+        return self.graph_builder.compile(checkpointer=checkpointer)
