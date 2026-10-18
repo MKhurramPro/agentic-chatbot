@@ -1,11 +1,7 @@
 # Daily AI News Summary
 
-### 2026-09-24
-- Pakistan urged the UN Security Council to establish international guardrails for AI, warning that uncontrolled development could deepen inequality and threaten global peace. [Mettis Global](https://mettisglobal.news/Pakistan-warns-UNSC-of-AIdriven-inequality-63690)
-- Pakistan called for human control and stronger international cooperation to prevent AI from becoming another dimension of the global arms race. [The Diplomatic Insight](https://thediplomaticinsight.com/pakistan-calls-for-human-control-over-ai)
-- AI executives warned the UN Security Council that poorly governed autonomous systems could pose existential risks, prompting calls for urgent global safeguards. [Gulf News](https://gulfnews.com/amp/story/business%2Fai-everything-abu-dhabi-to-showcase-the-next-phase-of-ai-1.500686497)
-- OpenAI, Anthropic and other technology leaders urged caution and international oversight as AI systems become increasingly capable and difficult to control. [Tech Xplore](https://techxplore.com/news/2026-09-tech-chiefs-urge-caution-ai.html)
-- Pakistan’s foreign minister said AI is already affecting regional and global stability and must be governed through effective international frameworks. [Dawn](https://www.dawn.com/news/2032319)
-- Analysts highlighted intensifying US-China AI competition and growing calls for cooperation, safety protocols and possibly a moratorium on advanced AI development. [India News Network](https://www.indianewsnetwork.com/en/us-china-leaders-discuss-ai-rivalry-amid-global-concerns-20260924)
-- OpenAI and Anthropic leaders issued stark warnings at the UN about losing control over autonomous AI systems and urged governments to create global safeguards. [News18](https://www.news18.com/amp/world/ai-leaders-issue-chilling-warning-at-un-humanity-is-at-risk-ws-bkrt-10349613.html)
-- AI leaders told the UN that powerful systems are creating new security risks, while debates continued over regulation, international standards and the role of Chinese AI models. [Japan Today](https://japantoday.com/category/tech/ai-leaders-warn-un-of-security-risks-as-systems-grow-more-powerful1)
+### 2026-10-17
+- Nielsen says AI now handles 97–98% of parts of its advertising intelligence work, with India driving about 75% of the company’s global innovation. [Source](https://www.lokmattimes.com/technology/nielsen-sees-india-as-its-primary-global-innovation-engine-report-1)
+- Global leaders discussed AI’s economic potential and risks, including how prolonged conflict and regulatory uncertainty could affect investment. [Source](https://www.geo.tv/latest/687018-leaders-weigh-huge-benefit-risks-of-ai-for-global-economy)
+- Pakistan is using AI to flag suspicious patterns in public procurement bids and help investigators focus on high-risk cases. [Source](https://en.dailypakistan.com.pk/17-Oct-2026/pakistan-uses-ai-to-crack-down-on-bid-rigging-in-government-contracts)
+- Pakistan showcased 20 tech companies at TechCrunch Disrupt, including firms working on AI agents, generative AI, Physical AI chips and AI-powered fintech. [Source](https://propakistani.pk/2026/10/17/pakistan-showcases-20-tech-companies-at-techcrunch-disrupt-2026)

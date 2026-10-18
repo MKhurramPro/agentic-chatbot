@@ -16,6 +16,10 @@ class LoadStreamlitUI:
 
 
         with st.sidebar:
+            # Sidebar title
+            st.title("AI Control Center")
+            st.divider()
+            
             # Get options from config
             llm_options = self.config.get_llm_options()
             usecase_options = self.config.get_usecase_options()
